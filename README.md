@@ -4,4 +4,4 @@
 
 🌱 Outside of tech, my interest is the environment. After finishing my studies in Natural Sciences, I worked as a nature guide in the High Arctic, in Svalbard. Currently a second-year student of BA Philosophy, Politics and Economics interested in environmental policy, ecological economics and conservation.
 
-[LinkedIn]([https://duckduckgo.com](https://www.linkedin.com/in/annavidalperez/)
+[LinkedIn](https://www.linkedin.com/in/annavidalperez/)
