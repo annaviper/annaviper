@@ -1,6 +1,4 @@
 <!-- <h2 align="left">Connect with me:</h2> -->
-
-<br>
 <p align="right">
 <!-- <a href="mailto: anna.vidal.perez@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=48&id=12580&format=png" alt="annaviper email" />
 </a> -->
@@ -16,7 +14,7 @@
 <!-- <br> -->
 <p align="center">+5 years of experience in the tech space, mainly in <strong>ETL development</strong>, <strong>SQL & NoSQL</strong> databases and analysis and <strong>dashboarding</strong>.
 <br>
-
+<br>
 <p align="center">
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="pandas" /> </a>
