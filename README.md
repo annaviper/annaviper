@@ -19,10 +19,13 @@
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" /> </a>
     <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="pandas" /> </a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="SQL"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B&?logo=streamlit&logoColor=fff&style=for-the-badge&logoColor=ffdd54" alt="streamlit"/> </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft&logoColor=ffdd54" /></a>
+    <br>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastAPI"/> </a>
+    <a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" alt="flask"/> </a>
 </p>
 <br>
  
