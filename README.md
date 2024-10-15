@@ -10,7 +10,7 @@
 <br> -->
 
 <h3 align=center>Hi! I'm Anna.</h3>
-<h2 align=center>Software Developer & Analytics Engineer</h2>
+<h2 align=center>Data Engineer & Software Developer</h2>
 <!-- <br> -->
 <p align="center">+5 years of experience in the tech space, mainly in <strong>backend</strong>, <strong>ETL development</strong>, <strong>SQL & NoSQL</strong> and analysis.
 <br>
